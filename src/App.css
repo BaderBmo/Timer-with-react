@@ -1,0 +1,4 @@
+.container{border: solid;}
+.time{display: flex;font-size: 50pt;justify-content: center;}
+.units{display: flex;justify-content:space-between;margin: 0px 42%;}
+.buttons{display: flex;justify-content: space-between;margin: 20px 690px;}
